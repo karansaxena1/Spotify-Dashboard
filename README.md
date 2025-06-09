@@ -1,4 +1,4 @@
-# Spotify Listening Patterns Dashboard 🎵📊
+# Spotify Dashboard 🎵📊
 
 ## Project Overview
 This project analyzes Spotify user listening patterns, providing insights into albums, artists, and tracks over time. Built with a focus on interactivity and data-driven insights, this dashboard visualizes trends, engagement patterns, and year-over-year (YoY) comparisons using Spotify's music streaming data. 🎧
